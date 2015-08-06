@@ -1,0 +1,453 @@
+
+
+---------------------
+Space Team VS Carregados Pelo Maciota -- Vitória
+---------------------
+Jogador: Nathan Space
+---
+Campeão: Lulu
+Finalizações: 8
+Mortes: 2
+Assistências: 9
+Dano causado: 19354
+Dano recebido: 17513
+---
+Ouro conquistado: 10972
+Tropas eliminadas: 163
+
+
+Jogador: Alan Space
+---
+Campeão: Gragas
+Finalizações: 8
+Mortes: 6
+Assistências: 9
+Dano causado: 19269
+Dano recebido: 30939
+---
+Ouro conquistado: 10072
+Tropas eliminadas: 22
+
+
+Jogador: Darlan Space
+---
+Campeão: Gnar
+Finalizações: 5
+Mortes: 6
+Assistências: 12
+Dano causado: 27812
+Dano recebido: 24451
+---
+Ouro conquistado: 10370
+Tropas eliminadas: 138
+
+
+
+
+---------------------
+Space Team VS BR0NZ0DIAS -- Vitória
+---------------------
+Jogador: Nathan Space
+---
+Campeão: Vladimir
+Finalizações: 5
+Mortes: 1
+Assistências: 6
+Dano causado: 6856
+Dano recebido: 9544
+---
+Ouro conquistado: 6701
+Tropas eliminadas: 80
+
+
+Jogador: Alan Space
+---
+Campeão: Gragas
+Finalizações: 2
+Mortes: 5
+Assistências: 4
+Dano causado: 4472
+Dano recebido: 13408
+---
+Ouro conquistado: 5502
+Tropas eliminadas: 16
+
+
+Jogador: Darlan Space
+---
+Campeão: Jayce
+Finalizações: 8
+Mortes: 2
+Assistências: 7
+Dano causado: 15573
+Dano recebido: 9240
+---
+Ouro conquistado: 8039
+Tropas eliminadas: 95
+
+
+
+
+---------------------
+Space Team VS Twilight Hall -- Derrota
+---------------------
+Jogador: Nathan Space
+---
+Campeão: Vladimir
+Finalizações: 10
+Mortes: 7
+Assistências: 8
+Dano causado: 20041
+Dano recebido: 29185
+---
+Ouro conquistado: 10828
+Tropas eliminadas: 125
+
+
+Jogador: Alan Space
+---
+Campeão: LeeSin
+Finalizações: 3
+Mortes: 12
+Assistências: 8
+Dano causado: 8131
+Dano recebido: 27610
+---
+Ouro conquistado: 8642
+Tropas eliminadas: 37
+
+
+Jogador: Darlan Space
+---
+Campeão: Gnar
+Finalizações: 8
+Mortes: 7
+Assistências: 8
+Dano causado: 15897
+Dano recebido: 29089
+---
+Ouro conquistado: 9388
+Tropas eliminadas: 94
+
+
+
+
+---------------------
+Space Team VS Prata V Desde a Season I -- Vitória
+---------------------
+Jogador: Nathan Space
+---
+Campeão: Vladimir
+Finalizações: 4
+Mortes: 8
+Assistências: 10
+Dano causado: 21560
+Dano recebido: 22655
+---
+Ouro conquistado: 10626
+Tropas eliminadas: 161
+
+
+Jogador: Darlan Space
+---
+Campeão: Gnar
+Finalizações: 5
+Mortes: 4
+Assistências: 12
+Dano causado: 19163
+Dano recebido: 21141
+---
+Ouro conquistado: 10716
+Tropas eliminadas: 147
+
+
+Jogador: Alan Space
+---
+Campeão: Gragas
+Finalizações: 8
+Mortes: 6
+Assistências: 7
+Dano causado: 11489
+Dano recebido: 26773
+---
+Ouro conquistado: 9783
+Tropas eliminadas: 52
+
+
+
+
+---------------------
+Space Team VS SevenSeaSerpent -- Vitória
+---------------------
+Jogador: Nathan Space
+---
+Campeão: Vladimir
+Finalizações: 7
+Mortes: 3
+Assistências: 3
+Dano causado: 17158
+Dano recebido: 20887
+---
+Ouro conquistado: 11511
+Tropas eliminadas: 151
+
+
+Jogador: Alan Space
+---
+Campeão: Gragas
+Finalizações: 3
+Mortes: 5
+Assistências: 7
+Dano causado: 10378
+Dano recebido: 26883
+---
+Ouro conquistado: 9145
+Tropas eliminadas: 20
+
+
+Jogador: Darlan Space
+---
+Campeão: Gnar
+Finalizações: 2
+Mortes: 4
+Assistências: 6
+Dano causado: 15175
+Dano recebido: 16986
+---
+Ouro conquistado: 9223
+Tropas eliminadas: 138
+
+
+
+
+---------------------
+Space Team VS We want WIN -- Vitória
+---------------------
+Jogador: Nathan Space
+---
+Campeão: Vladimir
+Finalizações: 7
+Mortes: 1
+Assistências: 5
+Dano causado: 14170
+Dano recebido: 16716
+---
+Ouro conquistado: 10574
+Tropas eliminadas: 183
+
+
+Jogador: Darlan Space
+---
+Campeão: Gnar
+Finalizações: 3
+Mortes: 3
+Assistências: 11
+Dano causado: 18351
+Dano recebido: 16328
+---
+Ouro conquistado: 9390
+Tropas eliminadas: 150
+
+
+Jogador: Alan Space
+---
+Campeão: LeeSin
+Finalizações: 5
+Mortes: 5
+Assistências: 8
+Dano causado: 8038
+Dano recebido: 21659
+---
+Ouro conquistado: 8140
+Tropas eliminadas: 13
+
+
+
+
+---------------------
+Space Team VS trollzinhos -- Derrota
+---------------------
+Jogador: Alan Space
+---
+Campeão: Orianna
+Finalizações: 8
+Mortes: 12
+Assistências: 6
+Dano causado: 24482
+Dano recebido: 26875
+---
+Ouro conquistado: 14956
+Tropas eliminadas: 250
+
+
+Jogador: mtS Space
+---
+Campeão: LeeSin
+Finalizações: 8
+Mortes: 9
+Assistências: 5
+Dano causado: 12573
+Dano recebido: 52565
+---
+Ouro conquistado: 13262
+Tropas eliminadas: 35
+
+
+Jogador: Nathan Space
+---
+Campeão: Vladimir
+Finalizações: 5
+Mortes: 11
+Assistências: 5
+Dano causado: 25950
+Dano recebido: 39441
+---
+Ouro conquistado: 13890
+Tropas eliminadas: 207
+
+
+Jogador: Darlan Space
+---
+Campeão: Lucian
+Finalizações: 5
+Mortes: 12
+Assistências: 11
+Dano causado: 31814
+Dano recebido: 35696
+---
+Ouro conquistado: 15503
+Tropas eliminadas: 243
+
+
+
+
+---------------------
+Space Team VS Legendary Arrived -- Derrota
+---------------------
+Jogador: Alan Space
+---
+Campeão: LeeSin
+Finalizações: 2
+Mortes: 7
+Assistências: 5
+Dano causado: 5110
+Dano recebido: 17609
+---
+Ouro conquistado: 6230
+Tropas eliminadas: 36
+
+
+Jogador: Darlan Space
+---
+Campeão: Lissandra
+Finalizações: 4
+Mortes: 5
+Assistências: 4
+Dano causado: 12777
+Dano recebido: 12082
+---
+Ouro conquistado: 6966
+Tropas eliminadas: 120
+
+
+Jogador: Nathan Space
+---
+Campeão: Vayne
+Finalizações: 3
+Mortes: 6
+Assistências: 1
+Dano causado: 7461
+Dano recebido: 16223
+---
+Ouro conquistado: 6887
+Tropas eliminadas: 123
+
+
+
+
+---------------------
+Space Team VS Foo Fighters Team -- Derrota
+---------------------
+Jogador: Alan Space
+---
+Campeão: Riven
+Finalizações: 0
+Mortes: 5
+Assistências: 1
+Dano causado: 4126
+Dano recebido: 8075
+---
+Ouro conquistado: 4251
+Tropas eliminadas: 90
+
+
+Jogador: Nathan Space
+---
+Campeão: Jax
+Finalizações: 0
+Mortes: 4
+Assistências: 0
+Dano causado: 2152
+Dano recebido: 11183
+---
+Ouro conquistado: 3928
+Tropas eliminadas: 10
+
+
+Jogador: Darlan Space
+---
+Campeão: Chogath
+Finalizações: 2
+Mortes: 6
+Assistências: 0
+Dano causado: 5145
+Dano recebido: 11076
+---
+Ouro conquistado: 4988
+Tropas eliminadas: 81
+
+
+
+
+---------------------
+Space Team VS Mahzicalixo -- Derrota
+---------------------
+Jogador: Alan Space
+---
+Campeão: Gragas
+Finalizações: 4
+Mortes: 11
+Assistências: 3
+Dano causado: 13030
+Dano recebido: 37840
+---
+Ouro conquistado: 9595
+Tropas eliminadas: 37
+
+
+Jogador: Nathan Space
+---
+Campeão: Yasuo
+Finalizações: 4
+Mortes: 10
+Assistências: 2
+Dano causado: 11336
+Dano recebido: 26129
+---
+Ouro conquistado: 12139
+Tropas eliminadas: 228
+
+
+Jogador: Darlan Space
+---
+Campeão: Chogath
+Finalizações: 3
+Mortes: 10
+Assistências: 8
+Dano causado: 21767
+Dano recebido: 31096
+---
+Ouro conquistado: 12199
+Tropas eliminadas: 228
+
+

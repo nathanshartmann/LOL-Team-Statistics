@@ -1,0 +1,864 @@
+
+
+---------------------
+Jogador: Alan Space
+---
+Campeão: LeeSin
+	Vitórias/Derrotas: 2/2 (50.0%)
+	KDA: 7.75/7.5/16.75 (3.27)
+	Wards compradas: 5.75
+	Gold por kill: 47.05
+
+
+Campeão: KogMaw
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 4.0/3.0/8.0 (4.0)
+	Wards compradas: 4.0
+	Gold por kill: 44.93
+
+
+Campeão: Vayne
+	Vitórias/Derrotas: 1/2 (33.33%)
+	KDA: 7.33/7.67/4.0 (1.48)
+	Wards compradas: 0.67
+	Gold por kill: 85.3
+
+
+Campeão: Ahri
+	Vitórias/Derrotas: 3/6 (33.33%)
+	KDA: 8.33/6.78/8.33 (2.46)
+	Wards compradas: 3.78
+	Gold por kill: 67.15
+
+
+Campeão: Fizz
+	Vitórias/Derrotas: 4/3 (57.14%)
+	KDA: 10.86/6.57/7.0 (2.72)
+	Wards compradas: 2.71
+	Gold por kill: 66.89
+
+
+Campeão: Nasus
+	Vitórias/Derrotas: 2/1 (66.67%)
+	KDA: 5.33/4.67/5.67 (2.36)
+	Wards compradas: 1.33
+	Gold por kill: 99.4
+
+
+Campeão: Lucian
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 6.5/5.5/11.0 (3.18)
+	Wards compradas: 1.0
+	Gold por kill: 73.52
+
+
+Campeão: Kalista
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 12.0/4.0/12.0 (6.0)
+	Wards compradas: 0.0
+	Gold por kill: 52.87
+
+
+Campeão: Zed
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 6.0/9.0/7.0 (1.44)
+	Wards compradas: 5.0
+	Gold por kill: 67.15
+
+
+Campeão: Sivir
+	Vitórias/Derrotas: 1/2 (33.33%)
+	KDA: 9.33/6.67/8.67 (2.7)
+	Wards compradas: 1.67
+	Gold por kill: 64.74
+
+
+Campeão: Yasuo
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 11.5/8.0/15.0 (3.31)
+	Wards compradas: 4.0
+	Gold por kill: 52.47
+
+
+Campeão: Ezreal
+	Vitórias/Derrotas: 7/3 (70.0%)
+	KDA: 10.8/6.3/9.4 (3.21)
+	Wards compradas: 1.9
+	Gold por kill: 59.06
+
+
+Campeão: Lux
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 0.0/2.0/10.0 (5.0)
+	Wards compradas: 1.0
+	Gold por kill: 55.51
+
+
+Campeão: Ziggs
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 3.0/9.0/15.0 (2.0)
+	Wards compradas: 4.0
+	Gold por kill: 70.77
+
+
+Campeão: Katarina
+	Vitórias/Derrotas: 0/2 (0.0%)
+	KDA: 7.5/10.0/10.0 (1.75)
+	Wards compradas: 4.0
+	Gold por kill: 65.73
+
+
+Campeão: Leblanc
+	Vitórias/Derrotas: 2/1 (66.67%)
+	KDA: 4.0/6.0/6.67 (1.78)
+	Wards compradas: 3.0
+	Gold por kill: 68.34
+
+
+Campeão: Morgana
+	Vitórias/Derrotas: 3/1 (75.0%)
+	KDA: 8.25/2.75/13.0 (7.73)
+	Wards compradas: 1.25
+	Gold por kill: 45.43
+
+
+Campeão: Gragas
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 2.0/8.0/18.0 (2.5)
+	Wards compradas: 1.0
+	Gold por kill: 45.64
+
+
+Campeão: Orianna
+	Vitórias/Derrotas: 5/4 (55.56%)
+	KDA: 5.33/5.56/9.56 (2.68)
+	Wards compradas: 2.11
+	Gold por kill: 65.72
+
+
+Campeão: Jinx
+	Vitórias/Derrotas: 2/2 (50.0%)
+	KDA: 7.0/8.25/8.5 (1.88)
+	Wards compradas: 0.5
+	Gold por kill: 76.5
+
+
+---------------------
+Jogador: Nathan Space
+---
+Campeão: LeeSin
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 7.0/6.0/10.0 (2.83)
+	Wards compradas: 3.0
+	Gold por kill: 74.35
+
+
+Campeão: Shen
+	Vitórias/Derrotas: 1/3 (25.0%)
+	KDA: 5.25/4.5/14.75 (4.44)
+	Wards compradas: 1.25
+	Gold por kill: 53.55
+
+
+Campeão: Rumble
+	Vitórias/Derrotas: 6/5 (54.55%)
+	KDA: 6.18/3.55/6.55 (3.59)
+	Wards compradas: 3.36
+	Gold por kill: 72.92
+
+
+Campeão: Sejuani
+	Vitórias/Derrotas: 2/2 (50.0%)
+	KDA: 5.0/2.0/10.5 (7.75)
+	Wards compradas: 4.25
+	Gold por kill: 49.15
+
+
+Campeão: Vladimir
+	Vitórias/Derrotas: 2/1 (66.67%)
+	KDA: 7.33/4.33/6.67 (3.23)
+	Wards compradas: 3.0
+	Gold por kill: 57.63
+
+
+Campeão: Gragas
+	Vitórias/Derrotas: 3/3 (50.0%)
+	KDA: 3.33/4.83/10.17 (2.79)
+	Wards compradas: 12.0
+	Gold por kill: 70.31
+
+
+Campeão: Hecarim
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 4.0/5.0/13.5 (3.5)
+	Wards compradas: 10.0
+	Gold por kill: 63.54
+
+
+Campeão: Lulu
+	Vitórias/Derrotas: 2/2 (50.0%)
+	KDA: 3.25/6.0/10.75 (2.33)
+	Wards compradas: 2.5
+	Gold por kill: 58.27
+
+
+Campeão: Gnar
+	Vitórias/Derrotas: 2/1 (66.67%)
+	KDA: 3.67/4.33/6.0 (2.23)
+	Wards compradas: 1.67
+	Gold por kill: 110.81
+
+
+Campeão: Morgana
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 1.0/7.0/11.0 (1.71)
+	Wards compradas: 2.0
+	Gold por kill: 61.5
+
+
+Campeão: Jax
+	Vitórias/Derrotas: 4/3 (57.14%)
+	KDA: 9.29/5.29/5.86 (2.86)
+	Wards compradas: 1.14
+	Gold por kill: 83.17
+
+
+Campeão: Maokai
+	Vitórias/Derrotas: 9/4 (69.23%)
+	KDA: 4.23/3.54/8.69 (3.65)
+	Wards compradas: 2.0
+	Gold por kill: 75.42
+
+
+Campeão: JarvanIV
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 3.5/5.0/25.0 (5.7)
+	Wards compradas: 7.5
+	Gold por kill: 44.61
+
+
+Campeão: Vi
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 3.0/9.0/10.0 (1.44)
+	Wards compradas: 19.0
+	Gold por kill: 79.02
+
+
+---------------------
+Jogador: Darlan Space
+---
+Campeão: Gnar
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 6.0/6.0/14.0 (3.33)
+	Wards compradas: 3.0
+	Gold por kill: 63.08
+
+
+Campeão: Leblanc
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 5.0/7.0/5.0 (1.43)
+	Wards compradas: 7.0
+	Gold por kill: 59.27
+
+
+Campeão: Vladimir
+	Vitórias/Derrotas: 0/2 (0.0%)
+	KDA: 10.0/7.5/3.5 (1.8)
+	Wards compradas: 13.0
+	Gold por kill: 78.59
+
+
+Campeão: Azir
+	Vitórias/Derrotas: 0/2 (0.0%)
+	KDA: 2.0/5.5/6.0 (1.45)
+	Wards compradas: 12.0
+	Gold por kill: 147.59
+
+
+Campeão: Sivir
+	Vitórias/Derrotas: 2/3 (40.0%)
+	KDA: 4.0/5.4/7.4 (2.11)
+	Wards compradas: 3.0
+	Gold por kill: 84.4
+
+
+Campeão: Tristana
+	Vitórias/Derrotas: 3/0 (100.0%)
+	KDA: 7.67/4.67/9.33 (3.64)
+	Wards compradas: 2.0
+	Gold por kill: 55.18
+
+
+Campeão: Ashe
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 12.0/7.5/13.5 (3.4)
+	Wards compradas: 2.0
+	Gold por kill: 56.81
+
+
+Campeão: Zac
+	Vitórias/Derrotas: 4/0 (100.0%)
+	KDA: 3.25/3.5/15.75 (5.43)
+	Wards compradas: 9.75
+	Gold por kill: 48.57
+
+
+Campeão: Twitch
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 10.0/8.0/18.0 (3.5)
+	Wards compradas: 4.0
+	Gold por kill: 50.19
+
+
+Campeão: Amumu
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 2.0/1.0/10.0 (12.0)
+	Wards compradas: 7.0
+	Gold por kill: 49.92
+
+
+Campeão: RekSai
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 2.0/4.5/13.0 (3.33)
+	Wards compradas: 7.0
+	Gold por kill: 69.42
+
+
+Campeão: Kassadin
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 9.0/1.0/13.0 (22.0)
+	Wards compradas: 12.0
+	Gold por kill: 69.7
+
+
+Campeão: Corki
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 8.5/5.0/11.0 (3.9)
+	Wards compradas: 1.5
+	Gold por kill: 43.64
+
+
+Campeão: Maokai
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 14.0/8.0/17.0 (3.88)
+	Wards compradas: 3.0
+	Gold por kill: 43.77
+
+
+Campeão: JarvanIV
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 2.0/2.0/16.0 (9.0)
+	Wards compradas: 6.0
+	Gold por kill: 27.71
+
+
+Campeão: Orianna
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 6.0/10.0/20.0 (2.6)
+	Wards compradas: 5.0
+	Gold por kill: 50.88
+
+
+Campeão: Ekko
+	Vitórias/Derrotas: 0/2 (0.0%)
+	KDA: 4.0/7.5/16.0 (2.67)
+	Wards compradas: 7.5
+	Gold por kill: 57.1
+
+
+Campeão: LeeSin
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 7.0/9.0/12.0 (2.11)
+	Wards compradas: 5.0
+	Gold por kill: 61.21
+
+
+Campeão: Vayne
+	Vitórias/Derrotas: 0/2 (0.0%)
+	KDA: 18.0/6.0/10.5 (4.75)
+	Wards compradas: 2.5
+	Gold por kill: 56.09
+
+
+Campeão: Nidalee
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 2.5/5.5/6.0 (1.55)
+	Wards compradas: 9.5
+	Gold por kill: 68.52
+
+
+Campeão: Gragas
+	Vitórias/Derrotas: 8/4 (66.67%)
+	KDA: 4.08/4.0/13.33 (4.35)
+	Wards compradas: 5.08
+	Gold por kill: 56.33
+
+
+Campeão: Vi
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 7.0/11.0/26.0 (3.0)
+	Wards compradas: 16.0
+	Gold por kill: 39.53
+
+
+Campeão: Jinx
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 8.0/6.0/7.0 (2.5)
+	Wards compradas: 2.0
+	Gold por kill: 94.45
+
+
+Campeão: KogMaw
+	Vitórias/Derrotas: 2/0 (100.0%)
+	KDA: 7.0/2.5/11.5 (7.4)
+	Wards compradas: 6.0
+	Gold por kill: 58.63
+
+
+Campeão: Xerath
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 8.0/5.0/8.0 (3.2)
+	Wards compradas: 11.0
+	Gold por kill: 86.1
+
+
+Campeão: Shyvana
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 4.0/6.0/11.0 (2.5)
+	Wards compradas: 2.0
+	Gold por kill: 103.23
+
+
+Campeão: Fizz
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 13.0/3.0/14.0 (9.0)
+	Wards compradas: 7.0
+	Gold por kill: 53.64
+
+
+Campeão: Rengar
+	Vitórias/Derrotas: 1/2 (33.33%)
+	KDA: 6.67/9.33/13.0 (2.11)
+	Wards compradas: 10.67
+	Gold por kill: 56.91
+
+
+Campeão: Lucian
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 9.0/8.5/10.0 (2.24)
+	Wards compradas: 4.0
+	Gold por kill: 61.67
+
+
+Campeão: Zed
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 10.0/2.0/4.0 (7.0)
+	Wards compradas: 5.0
+	Gold por kill: 46.12
+
+
+Campeão: Viktor
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 5.0/8.0/7.0 (1.5)
+	Wards compradas: 3.0
+	Gold por kill: 73.48
+
+
+Campeão: Sejuani
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 2.0/5.0/11.0 (2.6)
+	Wards compradas: 6.0
+	Gold por kill: 55.94
+
+
+Campeão: Ziggs
+	Vitórias/Derrotas: 2/1 (66.67%)
+	KDA: 10.33/5.33/15.33 (4.81)
+	Wards compradas: 8.67
+	Gold por kill: 56.88
+
+
+Campeão: Lulu
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 13.0/2.0/5.0 (9.0)
+	Wards compradas: 6.0
+	Gold por kill: 44.31
+
+
+Campeão: Jayce
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 15.0/2.0/9.0 (12.0)
+	Wards compradas: 13.0
+	Gold por kill: 32.02
+
+
+Campeão: Lissandra
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 3.0/4.0/15.0 (4.5)
+	Wards compradas: 2.0
+	Gold por kill: 54.31
+
+
+---------------------
+Jogador: LinkAllan
+---
+Campeão: Diana
+	Vitórias/Derrotas: 0/2 (0.0%)
+	KDA: 10.0/11.5/6.0 (1.39)
+	Wards compradas: 2.5
+	Gold por kill: 80.46
+
+
+Campeão: Shyvana
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 7.0/7.0/7.0 (2.0)
+	Wards compradas: 1.0
+	Gold por kill: 86.22
+
+
+Campeão: Ahri
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 3.0/6.0/7.0 (1.67)
+	Wards compradas: 1.0
+	Gold por kill: 71.24
+
+
+Campeão: Leblanc
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 8.0/9.0/8.0 (1.78)
+	Wards compradas: 4.0
+	Gold por kill: 69.1
+
+
+Campeão: Akali
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 8.0/6.0/1.0 (1.5)
+	Wards compradas: 1.0
+	Gold por kill: 101.23
+
+
+Campeão: Morgana
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 6.0/4.0/10.0 (4.0)
+	Wards compradas: 1.0
+	Gold por kill: 58.08
+
+
+Campeão: MonkeyKing
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 5.0/12.0/15.0 (1.67)
+	Wards compradas: 3.0
+	Gold por kill: 62.67
+
+
+---------------------
+Jogador: BRDemon
+---
+Campeão: Annie
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 0.0/7.0/14.0 (2.0)
+	Wards compradas: 7.0
+	Gold por kill: 38.7
+
+
+Campeão: XinZhao
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 4.0/6.0/9.0 (2.17)
+	Wards compradas: 5.0
+	Gold por kill: 84.11
+
+
+Campeão: Alistar
+	Vitórias/Derrotas: 4/6 (40.0%)
+	KDA: 1.8/6.6/17.8 (2.97)
+	Wards compradas: 5.0
+	Gold por kill: 42.98
+
+
+Campeão: Tristana
+	Vitórias/Derrotas: 1/2 (33.33%)
+	KDA: 4.0/3.67/4.0 (2.18)
+	Wards compradas: 2.67
+	Gold por kill: 111.82
+
+
+Campeão: Gnar
+	Vitórias/Derrotas: 2/1 (66.67%)
+	KDA: 4.0/3.0/8.67 (4.22)
+	Wards compradas: 5.0
+	Gold por kill: 60.8
+
+
+Campeão: Morgana
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 1.0/2.0/12.0 (6.5)
+	Wards compradas: 9.0
+	Gold por kill: 70.38
+
+
+Campeão: Thresh
+	Vitórias/Derrotas: 8/5 (61.54%)
+	KDA: 2.23/5.08/18.15 (4.02)
+	Wards compradas: 4.85
+	Gold por kill: 37.11
+
+
+Campeão: Amumu
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 3.0/4.0/7.0 (2.5)
+	Wards compradas: 5.0
+	Gold por kill: 57.05
+
+
+Campeão: RekSai
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 3.0/7.0/6.0 (1.29)
+	Wards compradas: 9.0
+	Gold por kill: 108.13
+
+
+Campeão: Janna
+	Vitórias/Derrotas: 0/3 (0.0%)
+	KDA: 1.0/3.0/13.0 (4.67)
+	Wards compradas: 8.0
+	Gold por kill: 49.54
+
+
+Campeão: Corki
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 14.0/5.0/12.0 (5.2)
+	Wards compradas: 2.0
+	Gold por kill: 66.72
+
+
+Campeão: Blitzcrank
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 1.0/3.0/15.0 (5.33)
+	Wards compradas: 2.0
+	Gold por kill: 46.92
+
+
+Campeão: Malphite
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 1.0/3.0/4.0 (1.67)
+	Wards compradas: 2.0
+	Gold por kill: 96.5
+
+
+Campeão: Maokai
+	Vitórias/Derrotas: 1/4 (20.0%)
+	KDA: 3.4/5.0/12.0 (3.08)
+	Wards compradas: 7.2
+	Gold por kill: 67.49
+
+
+Campeão: JarvanIV
+	Vitórias/Derrotas: 7/1 (87.5%)
+	KDA: 3.38/3.0/16.75 (6.71)
+	Wards compradas: 7.38
+	Gold por kill: 42.89
+
+
+Campeão: Braum
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 3.0/1.0/14.0 (17.0)
+	Wards compradas: 3.0
+	Gold por kill: 25.49
+
+
+Campeão: Gragas
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 3.0/1.0/5.0 (8.0)
+	Wards compradas: 2.0
+	Gold por kill: 64.01
+
+
+Campeão: Leona
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 2.0/3.0/14.0 (5.33)
+	Wards compradas: 4.0
+	Gold por kill: 25.52
+
+
+Campeão: Shyvana
+	Vitórias/Derrotas: 1/2 (33.33%)
+	KDA: 6.0/5.0/10.33 (3.27)
+	Wards compradas: 1.67
+	Gold por kill: 78.91
+
+
+Campeão: Nautilus
+	Vitórias/Derrotas: 3/0 (100.0%)
+	KDA: 2.67/3.33/18.0 (6.2)
+	Wards compradas: 6.0
+	Gold por kill: 42.49
+
+
+Campeão: Sejuani
+	Vitórias/Derrotas: 0/3 (0.0%)
+	KDA: 2.67/6.0/12.33 (2.5)
+	Wards compradas: 9.0
+	Gold por kill: 51.84
+
+
+Campeão: Hecarim
+	Vitórias/Derrotas: 1/3 (25.0%)
+	KDA: 5.0/6.0/6.25 (1.88)
+	Wards compradas: 4.75
+	Gold por kill: 103.84
+
+
+Campeão: Vi
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 5.0/7.0/18.0 (3.29)
+	Wards compradas: 14.0
+	Gold por kill: 42.54
+
+
+---------------------
+Jogador: Cooisa
+---
+Campeão: LeeSin
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 2.0/7.0/6.0 (1.14)
+	Wards compradas: 4.0
+	Gold por kill: 93.94
+
+
+---------------------
+Jogador: quad Space
+---
+Campeão: KogMaw
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 9.0/4.0/4.0 (3.25)
+	Wards compradas: 1.0
+	Gold por kill: 99.62
+
+
+Campeão: Annie
+	Vitórias/Derrotas: 1/1 (50.0%)
+	KDA: 1.5/4.0/13.5 (3.75)
+	Wards compradas: 7.0
+	Gold por kill: 50.0
+
+
+Campeão: Vayne
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 8.0/8.0/7.0 (1.88)
+	Wards compradas: 2.0
+	Gold por kill: 98.05
+
+
+Campeão: Janna
+	Vitórias/Derrotas: 4/4 (50.0%)
+	KDA: 1.0/4.5/20.75 (4.83)
+	Wards compradas: 3.88
+	Gold por kill: 37.47
+
+
+Campeão: Braum
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 2.0/9.0/13.0 (1.67)
+	Wards compradas: 1.0
+	Gold por kill: 30.67
+
+
+Campeão: Corki
+	Vitórias/Derrotas: 1/3 (25.0%)
+	KDA: 7.25/3.75/7.0 (3.8)
+	Wards compradas: 2.25
+	Gold por kill: 80.32
+
+
+Campeão: Nami
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 3.0/1.0/14.0 (17.0)
+	Wards compradas: 1.0
+	Gold por kill: 29.04
+
+
+Campeão: Alistar
+	Vitórias/Derrotas: 3/4 (42.86%)
+	KDA: 1.29/3.71/14.71 (4.31)
+	Wards compradas: 4.71
+	Gold por kill: 42.42
+
+
+Campeão: Kalista
+	Vitórias/Derrotas: 4/2 (66.67%)
+	KDA: 10.17/3.67/10.17 (5.55)
+	Wards compradas: 1.17
+	Gold por kill: 56.42
+
+
+Campeão: Sivir
+	Vitórias/Derrotas: 5/3 (62.5%)
+	KDA: 7.0/4.13/10.25 (4.18)
+	Wards compradas: 1.75
+	Gold por kill: 69.51
+
+
+Campeão: Bard
+	Vitórias/Derrotas: 0/2 (0.0%)
+	KDA: 1.0/6.5/14.0 (2.31)
+	Wards compradas: 4.5
+	Gold por kill: 52.92
+
+
+Campeão: JarvanIV
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 0.0/7.0/10.0 (1.43)
+	Wards compradas: 10.0
+	Gold por kill: 87.53
+
+
+Campeão: Tristana
+	Vitórias/Derrotas: 5/1 (83.33%)
+	KDA: 11.0/5.0/10.33 (4.27)
+	Wards compradas: 1.5
+	Gold por kill: 55.43
+
+
+Campeão: Lucian
+	Vitórias/Derrotas: 1/2 (33.33%)
+	KDA: 8.33/7.67/7.67 (2.09)
+	Wards compradas: 1.33
+	Gold por kill: 71.77
+
+
+Campeão: Ashe
+	Vitórias/Derrotas: 1/0 (100.0%)
+	KDA: 12.0/3.0/15.0 (9.0)
+	Wards compradas: 3.0
+	Gold por kill: 57.18
+
+
+Campeão: Morgana
+	Vitórias/Derrotas: 2/3 (40.0%)
+	KDA: 1.8/4.0/15.6 (4.35)
+	Wards compradas: 4.8
+	Gold por kill: 48.69
+
+
+Campeão: Nautilus
+	Vitórias/Derrotas: 0/1 (0.0%)
+	KDA: 6.0/10.0/11.0 (1.7)
+	Wards compradas: 5.0
+	Gold por kill: 54.87
+
+
+Campeão: Thresh
+	Vitórias/Derrotas: 6/2 (75.0%)
+	KDA: 1.63/4.88/17.5 (3.92)
+	Wards compradas: 5.75
+	Gold por kill: 39.28
+
+
+Campeão: Jinx
+	Vitórias/Derrotas: 3/2 (60.0%)
+	KDA: 8.4/5.0/9.2 (3.52)
+	Wards compradas: 2.2
+	Gold por kill: 64.35
+
+
+---------------------
